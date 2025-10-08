@@ -11,6 +11,11 @@ Default
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si``
+# aura
+``sudo pacman -S --needed git base-devel
+git clone https://aur.archlinux.org/aura-bin.git
+cd aura-bin
+makepkg -si``
 # paru
 ``sudo pacman -S --needed base-devel git
 git clone https://aur.archlinux.org/paru.git
