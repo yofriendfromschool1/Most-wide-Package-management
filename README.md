@@ -30,6 +30,8 @@ https://snapcraft.io/snapd
 ``sudo pacman -S python-pip``
 # Arch emerge (like gentoo)
 https://aur.archlinux.org/packages/arch-emerge-git  https://github.com/gissf1/arch-emerge
+# pacsync
+https://gitlab.com/isd/pacsync
 # Arch Build System (ABS)
 http://wiki.archlinux.org/index.php/ABS
 # Yaourt
