@@ -22,6 +22,10 @@ git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 ``
+# conda
+```yay -S miniconda3```
+or
+```yay -S python-conda```
 # Snap/Snapd
 https://snapcraft.io/docs/installing-snap-on-arch-linux
 https://snapcraft.io/snapd
